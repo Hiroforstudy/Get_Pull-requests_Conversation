@@ -1,2 +1,2 @@
-# Get_Pull-requests_Conversation
+# take_conversation.py
 APIを使用し、任意のレポジトリのPull requestsのConversationで行われているやり取りを抽出するプログラム。
