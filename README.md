@@ -1,2 +1,2 @@
 # take_conversation.py
-APIを使用し、任意のレポジトリのPull requestsのConversationで行われているやり取りを抽出するプログラム。
+A program that uses the API to extract the exchange taking place in the Conversation of Pull requests of any repository.
